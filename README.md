@@ -17,11 +17,10 @@ The second dataset explores carbon dioxide starting at year zero up until the re
 ## Visualizations Preview
 
 ### NOAA CO2 Levels Visualization
-![NOAA CO2 Levels](plots/noaa_viz_plot.pdf)
+![NOAA CO2 Levels](noaa_viz_plot.png)
 
 ### IAC CO2 Levels Visualization
-![IAC CO2 Levels](plots/iac_viz_plot.pdf)
+![IAC CO2 Levels](iac_viz_plot.png)
 
-
-**Note:** The descriptive text was provided by Codecademy as part of a guided project. I followed the instructions and implemented the analysis in my own development environment.
+**Note:** The descriptive text was provided by Codecademy as part of a guided project. I followed the instructions and implemented the analysis in my own development environment. And added my own twists.
 
