@@ -22,5 +22,5 @@ The second dataset explores carbon dioxide starting at year zero up until the re
 ### IAC CO2 Levels Visualization
 ![IAC CO2 Levels](iac_viz_plot.png)
 
-**Note:** The descriptive text was provided by Codecademy. I followed the instructions and implemented the analysis in my own development environment using RStudio. And added my own twist.
+**Note:** The descriptive text was provided by Codecademy and I have summarized it. I followed the instructions and implemented the analysis in my own development environment using RStudio. And added my own twist to the visualizations.
 
